@@ -1,0 +1,4 @@
+I adjusted the number of checkers to see the affect on the wait time and idle time. Going any number above 5 will 
+not make the wait time go down at all but will increase the idle time each time the value is increased. I found that 
+having 4 checkers checkers is the most effecient because the wait time is around the same and the idle time goes down
+drastically.
